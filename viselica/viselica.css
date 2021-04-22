@@ -1,0 +1,63 @@
+#pole_igri{
+    background-color:green;
+    border:10px solid black;
+    position: absolute;
+    height: 450px;
+    width : 1100px;
+    text-align: center;
+    
+}
+#vvod_bukvi{
+    background-color:red;
+    border:10px solid black;
+    position: absolute;
+    top : 460px;
+    height: 270px;
+    width : 1100px;
+    text-align: center;
+}
+#bukvi_bili{
+    background-color:#002eff ;
+    border:10px solid black;
+    position: absolute;
+    left:1120px;
+    bottom:610px;
+    width : 380px;
+    height: 100px;
+}
+#verno{
+    background-color: #ff00c9;
+    border:10px solid black;
+    position: absolute;
+    left:1120px;
+    bottom:482px;
+    width : 380px;
+    height: 125px;
+}
+#neverno{
+    background-color: #f7ff00;
+    border:10px solid black;
+    position: absolute;
+    left:1120px;
+    bottom:352px;
+    width : 380px;
+    height: 125px;
+}
+#zdorovie{
+    background-color:#00fff7;
+    border:10px solid black;
+    position: absolute;
+    left:1120px;
+    bottom:290px;
+    width : 380px;
+    height: 50px;
+}
+#risunok{
+    background-color:#ff8b00;
+    border:10px solid black;
+    position: absolute;
+    left:1120px;
+    bottom:-10px;
+    width : 380px;
+    height: 285px;
+}
